@@ -1,0 +1,32 @@
+{
+  "name": "react-avanzato-caccia-al-collo-di-bottiglia",
+  "version": "1.0.0",
+  "description": "Come mai muovere lo slider è così lento? Scoprilo in questa caccia al collo di bottiglia!",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.11.0",
+    "chance": "1.1.7",
+    "d3-array": "2.7.1",
+    "d3-scale": "3.2.2",
+    "d3-scale-chromatic": "2.0.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.3"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
